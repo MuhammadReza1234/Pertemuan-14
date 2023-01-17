@@ -16,8 +16,6 @@ Kelas : TI.22.A3
 
 ### Latihan 1
 
-<img width="248" alt="e1" src="https://user-images.githubusercontent.com/115516607/212917640-77d5d6f0-176a-4fad-a6d0-49b69f38ef7c.png">
-
 #### Penjelasan Latihan 1
 - Untuk menghitung jumlah karakter, gunakan fungsi `len()`.
 
@@ -53,7 +51,7 @@ Untuk mengambil karakter terakhir, gunakan **index [-1]**. Sedangkan untuk menga
       
 #### Output Latihan 1
 
-![Run lat 1](https://user-images.githubusercontent.com/115677839/209825153-fc75ee75-a35f-41bf-9380-a3efa678f7b0.png)
+<img width="248" alt="e1" src="https://user-images.githubusercontent.com/115516607/212917991-edfee91d-97b9-45c0-aba3-3b5d45e62e25.png">
 
 ### Latihan 2
 
