@@ -6,7 +6,7 @@ NIM   : 312210303
 
 Kelas : TI.22.A3
 
-
+#Praktikum 10
 
 ### Python String
 - String adalah jenis yang paling populer di Python.
