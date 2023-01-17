@@ -16,7 +16,7 @@ Kelas : TI.22.A3
 
 ### Latihan 1
 
-![soal lat1](https://user-images.githubusercontent.com/115678171/209813077-7ea7ff90-ee80-4a78-b8af-a2fd5c911f90.png)
+<img width="248" alt="e1" src="https://user-images.githubusercontent.com/115516607/212917640-77d5d6f0-176a-4fad-a6d0-49b69f38ef7c.png">
 
 #### Penjelasan Latihan 1
 - Untuk menghitung jumlah karakter, gunakan fungsi `len()`.
@@ -69,8 +69,6 @@ Untuk memasukkan variable ke dalam string, tambahkan kurung kurawal `{}` untuk m
       
 #### Output Latihan 2
 
-![Run lat 2](https://user-images.githubusercontent.com/115677839/209825193-f9001bb2-21f9-41ff-85cb-640b1f96a1f0.png)
-
-
+<img width="350" alt="e2" src="https://user-images.githubusercontent.com/115516607/212917713-4c53e301-e1b8-47fb-95f1-600aaf1983bb.png">
 
 ## Terima Kasih :D
