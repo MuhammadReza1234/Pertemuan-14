@@ -1,4 +1,4 @@
-# Praktikum10
+# Tugas pertemuan 14
 
 Nama  : Muhammad Reza Maulana
 
@@ -73,4 +73,4 @@ Untuk memasukkan variable ke dalam string, tambahkan kurung kurawal `{}` untuk m
 
 
 
-## Terima Kasih :)
+## Terima Kasih :D
